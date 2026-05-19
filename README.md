@@ -61,7 +61,8 @@ This commands includes
 
 
 ## NBTSTAT
-<img width="1124" height="665" alt="{3258D4FA-CD50-4556-BA66-BFC43CA2BB69}" src="https://github.com/user-attachments/assets/18adf211-b064-43a4-ab1a-26e2cea3d36f" />
+<img width="733" height="1027" alt="{8475942E-6E14-44B0-8623-47BA53D1B6B3}" src="https://github.com/user-attachments/assets/af20e881-6967-4b89-9efe-880309477459" />
+
 
 
 ## ARP
